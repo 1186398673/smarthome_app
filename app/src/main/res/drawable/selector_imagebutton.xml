@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 1. 选中状态（优先级最高） -->
+    <item android:drawable="@drawable/on" android:state_selected="true"/>
+    <!-- 2. 按压状态（点击时触发） -->
+    <item android:drawable="@drawable/on" android:state_pressed="true"/>
+    <!-- 3. 默认状态（无任何状态时） -->
+    <item android:drawable="@drawable/off"/>
+</selector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/preferences.xml -->
+<resources>
+    <string name="prefs_name">preferences</string>
+    <string name="key_productid">productid</string>
+    <string name="key_devicename">devicename</string>
+    <string name="key_devicekey">devicekey</string>
+    <!-- 可以根据需要添加更多键 -->
+</resources>
